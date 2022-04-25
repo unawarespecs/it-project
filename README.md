@@ -2,37 +2,37 @@
 
 ## Description
 
-A school project where we have to build a website for a company. This site uses simple HTML, CSS and JS.
+A university project where we have to build a website for a company. This site uses HTML, CSS and JS.
 
 ## Feature Checklist
 
 As described in the [Design Spec](./Instructions.doc)
 
-- [ ] Links, Lists, HTML layouts, etc.
+- [X] Links, Lists, HTML layouts, etc.
 - [ ] Image Map
 - [ ] Tables
 - [ ] Forms
 - [ ] Animated Images
-- [ ] Sliding Window / Images (Carousel)
-- [ ] Drop down (navigation bar) menu
+- [X] Sliding Window / Images (Carousel)
+- [X] Drop down (navigation bar) menu
 - [ ] Pop-up Images (lightbox)
 - [X] CSS3 Features
   - [ ] CSS Opacity
   - [ ] CSS Navigation Bar
-  - [ ] CSS Dropdowns
+  - [X] CSS Dropdowns
   - [ ] CSS Image Gallery
-  - [ ] CSS Attr Selectors
+  - [X] CSS Attr Selectors
   - [ ] CSS Forms
   - [ ] CSS Rounded Corners
   - [ ] CSS Border Images
   - [ ] CSS Multiple Backgrounds
-  - [ ] CSS Colors (rgba)
-  - [ ] CSS Gradients
-  - [ ] CSS Shadow Effects
+  - [X] CSS Colors (rgba)
+  - [X] CSS Gradients
+  - [X] CSS Shadow Effects
 
 ## Other Project Requirements
 
-- [x] Bootstrap or related framework (Used: Bootstrap)
+- [x] Bootstrap or related framework
 - [ ] Observe presence of common elements, proper layouts & navigations
 - [ ] Observe web design principles and coding standards
 - [x] The project is to be uploaded on a free web host site (Used: GitHub Pages)
@@ -51,3 +51,15 @@ As described in the [Design Spec](./Instructions.doc)
 - ### [VS Code](https://code.visualstudio.com/)
 
 - ### GitHub (as you are seeing here)
+
+- ### Facebook Messenger/Discord
+
+## Contributors
+
+- Balderosa, Carlos Miguel
+
+- Bulanhagui, Miguel
+
+- De Gala, Christian Noel ([@unawarespecs](https://github.com/unawarespecs))
+
+- Mamauag, Kyle Denzel
