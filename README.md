@@ -32,7 +32,7 @@ As described in the [Design Spec](./Instructions.doc)
 
 ## Other Project Requirements
 
-- [x] Bootstrap or related framework (Used: MaterializeCSS)
+- [x] Bootstrap or related framework (Used: Bootstrap)
 - [ ] Observe presence of common elements, proper layouts & navigations
 - [ ] Observe web design principles and coding standards
 - [x] The project is to be uploaded on a free web host site (Used: GitHub Pages)
