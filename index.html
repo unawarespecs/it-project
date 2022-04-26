@@ -3,8 +3,14 @@
 <!--
     Landing page for the project
     Author: Christian De Gala (@unawarespecs)
-    Contributors:
+    Contributors: Carlos Miguel Balderosa (Ryscue)
 
+    Changes I made:
+    Changed the background-image in class=bd-placeholder-img
+    Added appropriate content
+    Connected the links
+    Added inline css called SBlogo that alligned the small logo icon next to brandname
+    Added few more links in navbar
 
     Date created: 4/25/22
 -->
@@ -23,7 +29,7 @@
 
     <style>
         .bd-placeholder-img {
-            background-image: url('images/90geom.png');
+            background-image: url('images/landingbg.jpg');
             background-repeat: no-repeat;
             background-size: cover;
             background-position: center;
@@ -33,6 +39,15 @@
             .bd-placeholder-img-lg {
                 font-size: 3.5rem;
             }
+        }
+        
+        .SBlogo {
+            display: inline-block;
+            float: left;
+            vertical-align: top;
+            margin-right: 15px;
+            width: 50px;
+            height: 50x;
         }
     </style>
 
@@ -46,7 +61,8 @@
     <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
         <header class="mb-auto">
             <div>
-                <h3 class="float-md-start mb-0">[Insert Brand Name]</h3>
+                <img src="images/SBlogo.png" class="SBlogo" alt="Starbucks logo">
+                <h3 class="float-md-start mb-0">Strabucks</h3>
                 <nav class="nav nav-masthead justify-content-center float-md-end">
                     <a class="nav-link active" aria-current="page" href="#">Home</a>
                     <a class="nav-link" href="aboutus/">About Us</a>
@@ -54,21 +70,21 @@
                     <a class="nav-link" href="locations/">Branches</a>
                     <a class="nav-link" href="testimonials/">Testimonials</a>
                     <a class="nav-link" href="gallery/">Gallery</a>
-                    <a class="nav-link" href="contactform/">Contact Us</a>
+                    <a class="nav-link" href="contactform/">Contact US</a>
                 </nav>
             </div>
         </header>
 
         <main class="px-3">
-            <h1>Site description</h1>
-            <p class="lead">Bla bla bla</p>
+            <h1>IT'S NOT JUST COFFEE. IT'S <span style="color: #00704A">STARBUCKS.</span></h1>
+            <p class="lead">Sometimes the best way to connect is to get together.</p>
             <p class="lead">
                 <a href="aboutus/" class="btn btn-lg btn-secondary fw-bold border-white bg-white">Learn more</a>
             </p>
         </main>
 
         <footer class="mt-auto text-white-50">
-            <p>Copyright &copy; 2022, <a class="text-white">Webdevs<a></p>
+            <p>Copyright &copy; 2022, <a class="text-white">Webdevs</a></p>
         </footer>
     </div>
 
