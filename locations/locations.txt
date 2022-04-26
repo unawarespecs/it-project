@@ -1,0 +1,44 @@
+LOCATIONS PAGE
+
+(source) google maps
+
+(heading) Tagaytay
+(address) Purok 162 Tagaytay - Calamba Rd, Tolentino West, Tagaytay, 4120 Cavite
+(telephone) 0465120124
+(map embed) <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d123795.574120372!2d120.89042834259239!3d14.158912046198912!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33bd79e5e111ec47%3A0xa4e744e5136a4bbe!2sStarbucks!5e0!3m2!1sen!2sph!4v1650978439477!5m2!1sen!2sph" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+(heading) Ayala
+(address) 6750 Ayala Ave, Makati, 1224 Metro Manila
+(telephone) 0288123395
+(map embed) <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d18502.433319889304!2d121.01660227063282!3d14.560613964810326!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397c904c4e206f3%3A0xc70c0d915fd10ca6!2sStarbucks!5e0!3m2!1sen!2sph!4v1650978528722!5m2!1sen!2sph" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+(heading) Taguig
+(address) H332+F8W, 32nd St, Taguig, Metro Manila
+(telephone) 0285521984
+(map embed) <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30895.697095269807!2d121.03475341144093!3d14.544157949648032!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397c8f3ffb16b73%3A0x19e5add70822ba28!2sStarbucks!5e0!3m2!1sen!2sph!4v1650978584162!5m2!1sen!2sph" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+(heading) Manila
+(address) 1436 Pedro Gil St, Malate, Manila, 1000 Metro Manila
+(telephone) 0285368069
+(map embed) <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61782.91959321832!2d121.02741293968323!3d14.574415587207795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397ca2af7404bb3%3A0x7709cddcb907056e!2sStarbucks%20-%20Robinsons%20Place%20Manila%20(Front)!5e0!3m2!1sen!2sph!4v1650978904529!5m2!1sen!2sph" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+(heading) Mall of Asia
+(address) Main Mall, 76 J.W. Diokno Blvd, Pasay, 1300 Metro Manila
+(telephone) 0285560702
+(map embed) <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d16486.128904913814!2d120.9751719532259!3d14.529361846797816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397cbfc614c1bf3%3A0x9c5a28812bbf4411!2sStarbucks!5e0!3m2!1sen!2sph!4v1650978750602!5m2!1sen!2sph" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+(heading) Timog
+(address) 118 Timog Ave, Diliman, Quezon City, 1103 Metro Manila
+(telephone) 0282812522
+(map embed) <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7720.794699521158!2d121.0310088737708!3d14.633371709126182!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397b7ae2c345f4b%3A0xf60719d37ef54f87!2sStarbucks!5e0!3m2!1sen!2sph!4v1650978798560!5m2!1sen!2sph" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+(heading) Pasig
+(address) H3F6+QX7, Capitol Commons, Camino Verde Rd, Pasig, Kalakhang Maynila
+(telephone) 0286314144
+(map embed) <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61782.918131728446!2d121.02741297910154!3d14.5744208!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397c86c743952b5%3A0x2feb26211b41f1b4!2sStarbucks!5e0!3m2!1sen!2sph!4v1650978854697!5m2!1sen!2sph" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
