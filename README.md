@@ -21,15 +21,15 @@ As described in the [Design Spec](./Instructions.doc)
 - [X] Drop down (navigation bar) menu
 - [ ] Pop-up Images (lightbox)
 - [X] CSS3 Features
-  - [ ] CSS Opacity
-  - [ ] CSS Navigation Bar
+  - [X] CSS Opacity
+  - [X] CSS Navigation Bar
   - [X] CSS Dropdowns
   - [ ] CSS Image Gallery
   - [X] CSS Attr Selectors
   - [ ] CSS Forms
   - [ ] CSS Rounded Corners
   - [ ] CSS Border Images
-  - [ ] CSS Multiple Backgrounds
+  - [X] CSS Multiple Backgrounds
   - [X] CSS Colors (rgba)
   - [X] CSS Gradients
   - [X] CSS Shadow Effects
@@ -48,15 +48,17 @@ As described in the [Design Spec](./Instructions.doc)
 
 ## Dependencies
 
-- ### [Bootstrap](https://getbootstrap.com/)
+- [Bootstrap](https://getbootstrap.com/)
 
 ## Development Tools
 
-- ### [VS Code](https://code.visualstudio.com/)
+- [VS Code](https://code.visualstudio.com/)
 
-- ### GitHub (as you are seeing here)
+- [Notepad++](https://notepad-plus-plus.org)
 
-- ### Facebook Messenger/Discord
+- GitHub (as you are seeing here)
+
+- Facebook Messenger
 
 ## Contributors
 
