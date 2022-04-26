@@ -69,4 +69,3 @@ As described in the [Design Spec](./Instructions.doc)
 - De Gala, Christian Noel ([@unawarespecs](https://github.com/unawarespecs))
 
 - Mamauag, Kyle Denzel ([@Kairuined](https://github.com/kairuined))
-
