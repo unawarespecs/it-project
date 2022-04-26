@@ -1,4 +1,4 @@
-# A Website Mockup
+# IT130L Project: A Page for a Starbucks Branch
 
 Visit the site here at [https://unawarespecs.github.io/it-project](https://unawarespecs.github.io/it-project).
 
@@ -6,7 +6,7 @@ Groupmates: read [this](CONTRIBUTING.md).
 
 ## Description
 
-A university project where we have to build a website for a company. This site uses HTML, CSS and JS.
+A university project where we have to build a website for Starbucks Coffee. This site uses HTML, CSS and JS.
 
 ## Feature Checklist
 
