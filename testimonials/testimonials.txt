@@ -1,0 +1,20 @@
+TESTIMONIALS PAGE
+
+(source) https://www.starbucks.com/responsibility/people/
+
+(heading) Inclusion and Diversity
+(paragraphs) Our commitment to equal opportunity means cultivating an environment where differences are embraced and building a culture that fosters a sense of belonging.
+
+
+(heading) Opportunity
+(paragraphs) We put our partners (employees) first, empowering them by providing meaningful opportunities to pursue their aspirations.
+
+
+(heading) Community
+(paragraphs) Across the globe, we serve to strengthen each community we are part of by being the neighbor every neighborhood wants.
+
+
+(heading) The Starbucks Foundation
+(paragraphs) The Starbucks Foundation’s mission is to strengthen humanity by transforming lives across the world, with a focus on enabling community resiliency and prosperity and uplifting communities affected by disaster.
+
+The Starbucks Foundation supports thriving communities through grants to nonprofit organizations, from our hometown in Seattle and neighborhoods across the country, to coffee and tea-growing communities around the world.
