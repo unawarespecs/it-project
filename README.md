@@ -62,7 +62,7 @@ As described in the [Design Spec](./Instructions.doc)
 
 ## Contributors
 
-- Balderosa, Carlos Miguel
+- Balderosa, Carlos Miguel ([@Ryscue](https://github.com/ryscue))
 
 - Bulanhagui, Miguel
 
