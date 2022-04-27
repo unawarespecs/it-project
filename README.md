@@ -14,21 +14,21 @@ As described in the [Design Spec](./Instructions.doc)
 
 - [X] Links, Lists, HTML layouts, etc.
 - [ ] Image Map
-- [ ] Tables
+- [X] Tables
 - [ ] Forms
 - [ ] Animated Images
 - [X] Sliding Window / Images (Carousel)
 - [X] Drop down (navigation bar) menu
-- [ ] Pop-up Images (lightbox)
+- [X] Pop-up Images (lightbox)
 - [X] CSS3 Features
   - [X] CSS Opacity
   - [X] CSS Navigation Bar
   - [X] CSS Dropdowns
-  - [ ] CSS Image Gallery
+  - [X] CSS Image Gallery
   - [X] CSS Attr Selectors
   - [ ] CSS Forms
-  - [ ] CSS Rounded Corners
-  - [ ] CSS Border Images
+  - [X] CSS Rounded Corners
+  - [X] CSS Border Images
   - [X] CSS Multiple Backgrounds
   - [X] CSS Colors (rgba)
   - [X] CSS Gradients
@@ -37,10 +37,10 @@ As described in the [Design Spec](./Instructions.doc)
 ## Other Project Requirements
 
 - [x] Bootstrap or related framework
-- [ ] Observe presence of common elements, proper layouts & navigations
-- [ ] Observe web design principles and coding standards
+- [x] Observe presence of common elements, proper layouts & navigations
+- [x] Observe web design principles and coding standards
 - [x] The project is to be uploaded on a free web host site (Used: GitHub Pages)
-- [ ] Each page should have a sitemap and the name/s of the developer(s) should be written at the bottom of the page
+- [x] Each page should have a sitemap and the name/s of the developer(s) should be written at the bottom of the page
 - [x] No Website Template Builder used
 - [x] Tested using Google Chrome
 - [ ] 10-minute Video Presentation of the website. Discuss the purpose of the website, show all pages, mention the tools applied.
