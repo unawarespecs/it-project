@@ -18,6 +18,11 @@ body {
     list-style-type: none;
 }
 
+.form-margin {
+    margin-left: 3em;
+    margin-right: 3em;
+}
+
 .gallery-bg {
     border-radius: 15px;
     box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.60);
@@ -47,7 +52,7 @@ body {
 .inquiries-bg {
     border-radius: 15px;
     box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.60);
-    background-image: url('images/ABOUT_OurHeritage.jpg');
+    background-image: url('images/foundation.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -60,7 +65,7 @@ body {
 .testimonials-bg {
     border-radius: 15px;
     box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.60);
-    background-image: url('images/ABOUT_OurHeritage.jpg');
+    background-image: url('images/ABOUT_OurPartners.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -73,7 +78,7 @@ body {
 .contactform-bg {
     border-radius: 15px;
     box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.60);
-    background-image: url('images/CARSL-12.jpg');
+    background-image: url('images/CARSL-7.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

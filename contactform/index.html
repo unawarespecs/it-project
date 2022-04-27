@@ -6,6 +6,7 @@
     Contributors:
     - Carlos Miguel Balderosa (Ryscue)
     - Kyle Mamauag (@Kairuined)
+    - Miguel Bulanhagui
 
     Date created: 4/25/22
 -->
@@ -100,14 +101,128 @@
         <div class="mb-4 bg-light carousel-img-override contactform-bg">
             <div class="container-fluid py-5">
                 <h1 class="display-6 fw-bold text-center text-white">Contact Us</h1>
-                <p class="col-md fs-5 text-center text-white">Placeholder placeholder placeholder</p>
+                <p class="col-md fs-5 text-center text-white">Have something to ask us? Curious about something? Contact
+                    us today.</p>
             </div>
         </div>
 
         <div class="py-5 bg-light">
+            <form class="needs-validation form-margin" novalidate>
+                <div class="row g-3">
 
+                    <div class="col-12">
+                        <label for="sitefeedback" class="form-label">Choose a general topic...</label>
+                        <select class="form-select" id="sitefeedback" required>
+                            <option value="">Choose...</option>
+                            <option>A technical issue on this site</option>
+                            <option>Company information</option>
+                            <option>Corporal social responsibility</option>
+                            <option>International</option>
+                            <option>Jobs at Starbucks</option>
+                            <option>Media inquiry</option>
+                            <option>Store environment</option>
+                            <option>Other</option>
+                        </select>
+                        <div class="invalid-feedback">
+                            Please select a valid topic.
+                        </div>
+                    </div>
+
+                    <div class="col-12">
+                        <label for="message" class="form-label">Message</label>
+                        <textarea class="form-control" id="sitefeedback" rows="6" required></textarea>
+                        <div class="invalid-feedback">
+                            Message is required.
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6">
+                        <label for="firstName" class="form-label">First name</label>
+                        <input type="text" class="form-control" id="firstName" placeholder="" value="" required>
+                        <div class="invalid-feedback">
+                            Valid first name is required.
+                        </div>
+                    </div>
+
+                    <div class="col-sm-6">
+                        <label for="lastName" class="form-label">Last name</label>
+                        <input type="text" class="form-control" id="lastName" placeholder="" value="" required>
+                        <div class="invalid-feedback">
+                            Valid last name is required.
+                        </div>
+                    </div>
+
+                    <div class="col-12">
+                        <label for="email" class="form-label">Email</label>
+                        <input type="email" class="form-control" id="email" placeholder="you@example.com" required>
+                        <div class="invalid-feedback">
+                            Please enter a valid email address for updates.
+                        </div>
+                    </div>
+
+                    <div class="col-12">
+                        <label for="address2" class="form-label">Phone <span
+                                class="text-muted">(Optional)</span></label>
+                        <input type="tel" class="form-control" id="phonenum" placeholder="">
+                    </div>
+
+                    <div class="col-12">
+                        <label for="address" class="form-label">Address</label>
+                        <input type="text" class="form-control" id="address" placeholder="1234 Main St">
+                        <div class="invalid-feedback">
+                            Please enter your shipping address.
+                        </div>
+                    </div>
+
+                    <div class="col-md-5">
+                        <label for="country" class="form-label">Country</label>
+                        <select class="form-select" id="country">
+                            <option value="">Choose...</option>
+                            <option>Philippines</option>
+                            <option>United States</option>
+                        </select>
+                        <div class="invalid-feedback">
+                            Please select a valid country.
+                        </div>
+                    </div>
+
+                    <div class="col-md-4">
+                        <label for="state" class="form-label">State</label>
+                        <select class="form-select" id="state">
+                            <option value="">Choose...</option>
+                            <option>Metro Manila</option>
+                            <option>Metro Cebu</option>
+                            <option>New York</option>
+                            <option>Florida</option>
+                            <option>California</option>
+                            <option>Texas</option>
+                            <option>Nevada</option>
+                            <option>Hawaii</option>
+
+                        </select>
+                        <div class="invalid-feedback">
+                            Please provide a valid state.
+                        </div>
+                    </div>
+
+                    <div class="col-md-3">
+                        <label for="zip" class="form-label">Zip</label>
+                        <input type="text" class="form-control" id="zip" placeholder="">
+                        <div class="invalid-feedback">
+                            Zip code required.
+                        </div>
+                    </div>
+                </div>
+
+                <hr class="my-4">
+
+                <div class="btn-group" role="group" aria-label="Basic example">
+                    <button class="btn btn-primary btn-lg" type="submit">Submit</button>
+                    <button class="btn btn-primary btn-danger" type="reset">Reset</button>
+                </div>
+            </form>
         </div>
-        <br/>
+        <br />
 
         <!-- FOOTER -->
         <footer class="container">
@@ -121,11 +236,13 @@
                 <div class="row">
                     <div class="col">
                         <ul class="sitemap-list">
-                            <li><a class="text-black" href="#">Test</a></li>
-                            <li><a class="text-black" href="#">Test</a></li>
-                            <li><a class="text-black" href="#">Test</a></li>
-                            <li><a class="text-black" href="#">Test</a></li>
-                            <li><a class="text-black" href="#">Test</a></li>
+                            <li><a class="text-black" href="../">Home Page</a></li>
+                            <li><a class="text-black" href="../aboutus/">About Us</a></li>
+                            <li><a class="text-black" href="../inquiries">Inquiries</a></li>
+                            <li><a class="text-black" href="../locations/">Locations/Branches</a></li>
+                            <li><a class="text-black" href="../testimonials/">Testimonials/Reviews</a></li>
+                            <li><a class="text-black" href="../gallery/">Gallery</a></li>
+                            <li><a class="text-black" href="../contactform/">Contact Us</a></li>
                         </ul>
                     </div>
                 </div>
@@ -141,7 +258,7 @@
 
 
     <script src="../js/bootstrap.bundle.min.js"></script>
-
+    <script src="form-validation.js"></script>
 
 </body>
 
