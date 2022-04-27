@@ -13,10 +13,10 @@ A university project where we have to build a website for Starbucks Coffee. This
 As described in the [Design Spec](./Instructions.doc)
 
 - [X] Links, Lists, HTML layouts, etc.
-- [ ] Image Map
+- [X] Image Map
 - [X] Tables
 - [ ] Forms
-- [ ] Animated Images
+- [X] Animated Images
 - [X] Sliding Window / Images (Carousel)
 - [X] Drop down (navigation bar) menu
 - [X] Pop-up Images (lightbox)
@@ -49,6 +49,8 @@ As described in the [Design Spec](./Instructions.doc)
 ## Dependencies
 
 - [Bootstrap](https://getbootstrap.com/)
+
+- [Masonry](https://masonry.desandro.com/)
 
 ## Development Tools
 
