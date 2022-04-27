@@ -15,7 +15,7 @@ As described in the [Design Spec](./Instructions.doc)
 - [X] Links, Lists, HTML layouts, etc.
 - [X] Image Map
 - [X] Tables
-- [ ] Forms
+- [X] Forms
 - [X] Animated Images
 - [X] Sliding Window / Images (Carousel)
 - [X] Drop down (navigation bar) menu
@@ -26,7 +26,7 @@ As described in the [Design Spec](./Instructions.doc)
   - [X] CSS Dropdowns
   - [X] CSS Image Gallery
   - [X] CSS Attr Selectors
-  - [ ] CSS Forms
+  - [X] CSS Forms
   - [X] CSS Rounded Corners
   - [X] CSS Border Images
   - [X] CSS Multiple Backgrounds
