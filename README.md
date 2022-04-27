@@ -50,6 +50,8 @@ As described in the [Design Spec](./Instructions.doc)
 
 - [Bootstrap](https://getbootstrap.com/)
 
+- [Masonry](https://masonry.desandro.com/)
+
 ## Development Tools
 
 - [VS Code](https://code.visualstudio.com/)
