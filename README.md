@@ -1,6 +1,6 @@
 # IT130L Project: A Page for a Starbucks Branch
 
-Visit the site here at [https://unawarespecs.github.io/it-project](https://unawarespecs.github.io/it-project).
+The site has temporarily been taken down due to potential copyright/DMCA issues.
 
 Groupmates: read [this](CONTRIBUTING.md).
 
